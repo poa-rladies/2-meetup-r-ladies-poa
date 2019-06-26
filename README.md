@@ -8,20 +8,32 @@ Em Sicredi Plataforma Digital: Av Ipiranga, 6681 Prédio 32, 8° andar - Porto A
 Programação:
 
 ****
-Para começar: uma introdução ao R-Ladies
+19: 00 Uma introdução ao R-Ladies
 
 ****
-Palestra: "Do armazenamento ao uso dos dados em saúde: REDCap e R"
-Palestrante: Karlyse Claudino Belli
+19:30 Breve introdução ao RMarkdown
+Palestrante: Bruna Martini Dalmoro
 
-Resumo: Plataformas colaborativas e gratuitas facilitam o armazenamento, análise e uso dos dados em saúde, podendo gerar informações úteis para pacientes, profissionais e gestores(as). Nessa linha, o uso do REDCap juntamente com o R apresenta uma interoperabilidade adequada para produzir resultados em tempo real a partir de dados coletados sistematicamente.
+Resumo: Cansada de montar relatórios no Word e ficar brigando com a formatação? Quando tem que entregar algum trabalho, passa mais tempo formatando e tentando entender porque o Word não te obedece do que analisando os dados? Passa raiva quando abre o .doc em outro computador e o documento desformata e vai tudo por água abaixo? Seus problemas acabaram! Nessa breve introdução ao RMarkdown venho mostrar como este formato de documento facilita a formatação de relatórios, integrados com o R, deixando seu documento mais bonito e reproduzível.
 
-Bio: Karlyse é doutora em Ciências da Saúde com ênfase em Cardiologia pela UFRGS. Atualmente é coordenadora do setor de Registros Clínicos no Instituto de Cardiologia de Porto Alegre e professora/orientadora em programas de pós graduação (lato e stricto sensu).
+Bio: Bruna Martini Dalmoro é estatística formada pela UFRGS, trabalha atualmente na Plataforma Digital do Sicredi com modelagem de crédito. Em relacionamento sério com o R há 3 anos. Organizadora do R-Ladies Porto Alegre.
 
 ****
-Palestra: "Introdução a análise de dados com pesos amostrais usando o pacote survey"
-Palestrante: Vanessa Bielefeldt Leotti
 
-Resumo: Em variáveis situações, amostragens complexas são utilizadas para se obter amostras. As unidades de tais amostras muito provavelmente possuirão pesos amostrais diferentes e este peso deve ser incorporado na análise. O pacote survey foi criado com o objetivo de incorporar esses pesos tanto na análise descritiva quanto em análises mais sofisticadas como regressão. Na palestra, se falará brevemente sobre o cálculo de pesos amostrais, sobre a diferença entre amostragem estratificada e por conglomerados e se mostrará exemplos de análises com o survey.
+20:30 Aquela pausa pro coffee e network.
 
-Bio: Vanessa é bacharel em Estatística e tem mestrado e doutorado em Epidemiologia. É professora da UFRGS, ministrando a disciplina de Amostragem, entre outras. Usa o R desde a graduação e este é seu software favorito. Atende consultorias no Hospital de Clínicas onde, por força das circunstâncias, tem que usar o SPSS, mas sonha com o dia em que todos entendam R :)
+****
+20:50 Manipulando Strings com o pacote stringr
+Palestrante: Beatrice Victoria Fernandes
+
+Resumo: Variáveis de texto são muito comuns nos bancos de dados e, geralmente, dão bastante trabalho para serem manipuladas. É muito comum encontrarmos colunas com categorias não padronizadas, como, por exemplo, uma variável Estado com “SP”, “sp”, “Sao Paulo”, “São Paulo” etc, todas indicando o mesmo estado.
+O R possui várias funções para manipular textos (ou strings). No entanto, as funções do base não possuem uma interface consistente e cada uma tem a sua forma de passar os parâmetros, dificultando a programação durante a análise.
+Pensando nisso, Hadley Wickham deu aquela força para a comunidade R e criou o pacote stringr, que possui uma sintaxe consistente, permitindo o usuário manipular textos com muito mais facilidade.
+
+Fonte: http://material.curso-r.com/stringr/
+
+Bio: Mobile Developer, apaixonada por linguagens de programação e tecnologias. Com um forte crush em Data Science e Big Data. Amante de IA e IOT <3
+
+****
+21:30 Encerramento: considerações, sugestões e próximo encontro.
+
